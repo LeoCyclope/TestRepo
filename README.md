@@ -1,16 +1,10 @@
-# TestRepo
- Ceci est un test de création de Repo
+# Nom Prenom du Binome
 
+# Screenshot demandés
+1)
+- ScreenShot de l 'affichage avant la Transaction
+- ScreenShot  de l'affichage après la  transaction lors du Rollback
 
-# Ceci esst  un Titre H1s
-## Ceci est un H2
-
-```python
-s = “Python syntax highlighting”
-print s
-```
-
-
-# Ceci est un deuxième changement
-
-# Troisieme Changement
+2)
+- ScreenShot de l'affichage avant la Transaction
+- ScreenShot de l'affichage après la  transaction lors du Commit (edited)
