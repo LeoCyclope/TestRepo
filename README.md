@@ -1,4 +1,4 @@
-# Nom Prenom du Binome
+# Noms Prenoms du Binome
 
 # Screenshot demandés
 1)
